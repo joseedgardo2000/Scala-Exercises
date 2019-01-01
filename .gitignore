@@ -12,12 +12,15 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+
 # sbteclipse plugin
 .target
+
 # internal folders
 /**/target
 /**/bin
 /**/project
+
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
 .scala_dependencies
@@ -25,4 +28,3 @@ local.properties
 /**/.cache-main
 /**/.scala_dependencies
 /**/.worksheet
-
