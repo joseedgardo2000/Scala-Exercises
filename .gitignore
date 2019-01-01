@@ -17,6 +17,7 @@ local.properties
 # internal folders
 /**/target
 /**/bin
+/**/project
 # Scala IDE specific (Scala & Java development for Eclipse)
 .cache-main
 .scala_dependencies
