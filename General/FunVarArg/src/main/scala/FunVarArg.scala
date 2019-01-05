@@ -22,4 +22,5 @@ object FunVarArg {
   def printStrings(strs:String*){
       strs.foreach(println)
   }
+  
 }
