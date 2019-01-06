@@ -32,6 +32,4 @@ object Closures {
       val sum = (i:Int)=> i + num1
       println(sum(5))
   }
-  
-  
 }
