@@ -47,8 +47,9 @@ object SortedSets {
       println("...... s2() ......")
       val pedro = new Person("Pedro")
       val rosa = new Person("Rosa")
+      val rosa2 = new Person("Rosa")
       val leandro = new Person("Leandro")
-      val p = SortedSet(pedro, rosa, leandro)
+      val p = SortedSet(pedro, rosa, leandro, rosa2)
       
       p.foreach(e=>print(s"${e}\t")); println
   }
