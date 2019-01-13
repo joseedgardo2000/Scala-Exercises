@@ -1,6 +1,6 @@
 
 
-object FoldRight {
+object FoldRightLeft {
   def main(args:Array[String]):Unit = {
     println("====================== ReduceRightLeft ======================")
     val s1 = Seq("a", "b", "c", "d", "e")
